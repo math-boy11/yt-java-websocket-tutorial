@@ -1,0 +1,2 @@
+# How to make a WebSocket server in Java
+This is the repo that goes with the tutorial on the [Theo's Tech Tips](https://youtube.com/theostechtips) YouTube channel. This project uses the [Java-Websocket](https://github.com/TooTallNate/Java-WebSocket) dependency to make a WebSocket server in Java.
